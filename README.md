@@ -35,7 +35,7 @@ Below is the formal asset prioritization matrix mapped out during the business r
   <tbody>
     <tr>
       <td><b>Core Payment Ledger API</b></td>
-      <td>🔥 <b>Tier 1:<br>Mission-Critical</b></td>
+      <td> <b>Tier 1:<br>Mission-Critical</b></td>
       <td>Halts all client payment processing, transaction authorizations, and point-of-sale settlements globally. Immediate regulatory breach.</td>
       <td>2 Hours</td>
       <td><b>&le; 1 Hour</b></td>
@@ -44,7 +44,7 @@ Below is the formal asset prioritization matrix mapped out during the business r
     </tr>
     <tr>
       <td><b>Customer ERP & CRM Databases</b></td>
-      <td>⚡ <b>Tier 2:<br>High Priority</b></td>
+      <td> <b>Tier 2:<br>High Priority</b></td>
       <td>Blocks customer support operations, limits account verification pipelines, and creates manual data log jams for account reps.</td>
       <td>12 Hours</td>
       <td><b>&le; 4 Hours</b></td>
@@ -53,7 +53,7 @@ Below is the formal asset prioritization matrix mapped out during the business r
     </tr>
     <tr>
       <td><b>Corporate HR & Payroll Platform</b></td>
-      <td>💤 <b>Tier 3:<br>Medium / Low</b></td>
+      <td> <b>Tier 3:<br>Medium / Low</b></td>
       <td>Delays internal hiring operations, expense accounting processing, and non-essential administrative reporting. No external client impact.</td>
       <td>72 Hours</td>
       <td><b>&le; 24 Hours</b></td>
