@@ -80,7 +80,7 @@ Once technical failover is confirmed by infrastructure teams, data engineers mus
 
 ---
 
-## 💡 Key Insights & Business Alignment
+## Key Insights & Business Alignment
 1. **GRC Bridges Technology and Revenue:** A basic IT checklist looks at infrastructure as a list of servers. A business-aligned GRC analyst looks at infrastructure through the lens of revenue risk, compliance violations, and contractual commitments, enabling leadership to make data-driven budget decisions.
 2. **Data-Driven Control Allocation:** Security budgets are finite. Running a comprehensive BIA ensures an organization doesn't overspend on protecting low-impact systems while leaving the true economic engines of the enterprise vulnerable. It changes security from an ambiguous expense to an architecture of risk optimization.
 3. **Contingency Testing Stops Chaos:** An undocumented, untested DR plan is non-existent when a real emergency strikes. Aligning business units with formal metrics (RTO/RPO) ensures that when an outage occurs, technical teams have exact benchmarks and step-by-step playbooks to follow, protecting enterprise equity and maintaining continuity under extreme duress.
